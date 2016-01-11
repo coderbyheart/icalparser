@@ -1,14 +1,17 @@
 {
     "name":"tacker/icalparser",
     "type":"library",
+    "version":"0.0.1",
     "description":"Simple parser for ical files.",
     "keywords":[ "calendar", "ical" ],
     "homepage":"https://github.com/tacker/icalparser",
     "license":"MIT",
     "authors":[
         {
-            "name":"Markus Tacker",
-            "homepage":"http://coderbyheart.de/"
+          "name": "Markus Tacker",
+          "email": "m@cto.hiv",
+          "homepage": "https://cto.hiv/",
+          "role": "Developer"
         }
     ],
     "require":{
